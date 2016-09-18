@@ -1,0 +1,10 @@
+{
+    "name": "BlueDuino Library",
+    "keywords": "BlueDuino, bluetooth",
+    "description": "Arduino library for communicating with Bluetooth devices for the BlueDuino",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/saykalik/BlueDuino-Library/"
+    }
+}
